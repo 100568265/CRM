@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/cmake-build-debug/empFile.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/main.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/boss.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/employee.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/manager.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/worker.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/workerManager.cpp" charset="GBK" />
+  </component>
+</project>
